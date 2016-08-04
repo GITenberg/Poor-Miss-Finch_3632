@@ -1,0 +1,42 @@
+_repo: Poor-Miss-Finch_3632
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: Wilkie Collins's intriguing story about a blind girl, Lucilla Finch,
+  and the identical twins who both fall in love with her, has the exciting complications
+  of his better-known novels, but it also overturns conventional expectations. Using
+  a background of myth and fairy-tale to expand the boundaries of nineteenth-century
+  realist fiction, Collins not only takes a blind person as his central character
+  but also explores the idea of blindness and its implications. His sensitive presentation
+  of the difficulties, disappointments, and occasional delights which follow the recovery
+  of sight by someone blind since infancy is still one of the best accounts in fiction
+  of a problem which continues to intrigue philosophers, psychologists, and the general
+  public, as it has done since it was first discussed by Locke and Berkeley in the
+  eighteenth century.
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3632'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcc 'PR'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Blind women -- Fiction'
+- !lcsh 'Twins -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Sibling rivalry -- Fiction'
+- !lcsh 'Brothers -- Fiction'
+- GITenberg
+title: Poor Miss Finch
+url: http://www.gutenberg.org/ebooks/3632
